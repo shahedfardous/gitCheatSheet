@@ -1,5 +1,29 @@
 # Git and GitHub Cheatsheet
 
+<div align="center">
+
+![Git Logo](https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png)
+
+**A Comprehensive Guide from Beginner to Advanced**
+
+</div>
+
+## Author
+
+<div align="center">
+
+![Author Photo](https://github.com/shahedfardous.png?size=100)
+
+**Md Shahed Fardous (Samy)**
+
+[![GitHub](https://img.shields.io/badge/GitHub-shahedfardous-181717?style=for-the-badge&logo=github)](https://github.com/shahedfardous/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-shahedfardous-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shahedfardous/)
+[![Website](https://img.shields.io/badge/Website-shahedfardous.com-00ADD8?style=for-the-badge&logo=google-chrome)](https://shahedfardous.com/)
+
+</div>
+
+---
+
 This cheatsheet provides a comprehensive guide to Git and GitHub, ranging from beginner to advanced concepts. It includes practical examples and illustrations to help you understand and apply Git commands effectively.
 
 ## Table of Contents
@@ -280,3 +304,13 @@ gitGraph
    ```
 
 This workflow demonstrates how to contribute to an open-source project using Git and GitHub, incorporating forking, branching, and pull requests.
+
+---
+
+<div align="center">
+
+**© 2024 Md Shahed Fardous (Samy). All rights reserved.**
+
+*Feel free to share this cheatsheet, but please provide attribution to the author.*
+
+</div>
